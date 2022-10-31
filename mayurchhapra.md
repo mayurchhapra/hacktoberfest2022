@@ -7,3 +7,7 @@ Technology: node/Python
 # Mayur Chhapra
 
 ##  Lead Engineer
+
+As a lead engineer, I'm responsible for many things...
+
+Like polishing my self.
