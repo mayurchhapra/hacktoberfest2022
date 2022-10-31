@@ -36,3 +36,7 @@ It has been so long to push the code...
 ## Commit - 1
   - This is an initial commit of the code.
   - Which includes nothing but a short info.
+
+## Commit - 2
+  - This is an Second commit of the code.
+  - Which includes nothing but a short info.
